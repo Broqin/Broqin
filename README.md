@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Broqin
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning CSS animations.
+- 🌱 I’m developing an Application.
 - 💞️ I’m looking to collaborate on any project involving HTML, CSS, and Javascript.
 - 📫 Twitter: @Broqin
 
